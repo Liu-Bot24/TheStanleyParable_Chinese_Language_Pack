@@ -1,0 +1,9 @@
+{
+  "model": {
+    "name": "auto-gemini-3"
+  },
+  "ui": {
+    "showModelInfoInChat": true
+  }
+}
+

@@ -1,0 +1,33 @@
+{
+  "name": "The Stanley Parable Simplified Chinese Patch",
+  "version": "20260615_zhcn_v3",
+  "generatedAt": "2026-06-15T04:22:16",
+  "overlayFiles": [
+    "thestanleyparable/resource/NotoSansSC-OFL.txt",
+    "thestanleyparable/resource/NotoSansSC-VF.ttf",
+    "thestanleyparable/resource/basemodui_english.txt",
+    "thestanleyparable/resource/basemodui_scheme.res",
+    "thestanleyparable/resource/basemodui_schinese.txt",
+    "thestanleyparable/resource/chat_english.txt",
+    "thestanleyparable/resource/chat_schinese.txt",
+    "thestanleyparable/resource/clientscheme.res",
+    "thestanleyparable/resource/closecaption_english.dat",
+    "thestanleyparable/resource/closecaption_english.txt",
+    "thestanleyparable/resource/closecaption_schinese.dat",
+    "thestanleyparable/resource/closecaption_schinese.txt",
+    "thestanleyparable/resource/gameui_english.txt",
+    "thestanleyparable/resource/gameui_schinese.txt",
+    "thestanleyparable/resource/sourcescheme.res",
+    "thestanleyparable/resource/subtitles_english.dat",
+    "thestanleyparable/resource/subtitles_english.txt",
+    "thestanleyparable/resource/subtitles_schinese.dat",
+    "thestanleyparable/resource/subtitles_schinese.txt",
+    "thestanleyparable/resource/ui/basemodui/extrasdialog.res",
+    "thestanleyparable/resource/ui/basemodui/mainmenu_tsp.res",
+    "thestanleyparable/resource/ui/basemodui/options.res",
+    "thestanleyparable/resource/valve_english.txt",
+    "thestanleyparable/resource/valve_schinese.txt"
+  ],
+  "font": "Noto Sans SC",
+  "install": "Extract this archive into the game root and overwrite thestanleyparable files."
+}
