@@ -1,7 +1,6 @@
 # The Stanley Parable / 史丹利的寓言 简体中文汉化包
 
-![GitHub Stars](https://github-stats.liu-qi.cn/api/badge/Liu-Bot24/TheStanleyParable_Chinese_Language_Pack/stars.svg) ![GitHub Forks](https://github-stats.liu-qi.cn/api/badge/Liu-Bot24/TheStanleyParable_Chinese_Language_Pack/forks.svg) ![GitHub Views 14d](https://github-stats.liu-qi.cn/api/badge/Liu-Bot24/TheStanleyParable_Chinese_Language_Pack/views14d.svg)
-![GitHub Clones 14d](https://github-stats.liu-qi.cn/api/badge/Liu-Bot24/TheStanleyParable_Chinese_Language_Pack/clones14d.svg) ![GitHub Downloads](https://github-stats.liu-qi.cn/api/badge/Liu-Bot24/TheStanleyParable_Chinese_Language_Pack/downloads.svg) ![GitHub Release](https://github-stats.liu-qi.cn/api/badge/Liu-Bot24/TheStanleyParable_Chinese_Language_Pack/release.svg)
+![Stars](https://img.shields.io/github/stars/Liu-Bot24/TheStanleyParable_Chinese_Language_Pack?label=Stars) ![Forks](https://img.shields.io/github/forks/Liu-Bot24/TheStanleyParable_Chinese_Language_Pack?label=Forks) ![Views 14d](https://img.shields.io/endpoint?url=https%3A%2F%2Fgithub-stats.liu-qi.cn%2Fapi%2Fbadge-json%2FLiu-Bot24%2FTheStanleyParable_Chinese_Language_Pack%2Fviews14d.json) ![Clones 14d](https://img.shields.io/endpoint?url=https%3A%2F%2Fgithub-stats.liu-qi.cn%2Fapi%2Fbadge-json%2FLiu-Bot24%2FTheStanleyParable_Chinese_Language_Pack%2Fclones14d.json) ![Downloads](https://img.shields.io/github/downloads/Liu-Bot24/TheStanleyParable_Chinese_Language_Pack/total?label=Downloads) ![Release](https://img.shields.io/github/v/release/Liu-Bot24/TheStanleyParable_Chinese_Language_Pack?label=Release)
 
 《The Stanley Parable》的简体中文汉化包，于游戏安装目录提取字幕和 UI 文本，按剧情上下文分组，使用 Gemini CLI 完成翻译和审校，并生成汉化包。
 
