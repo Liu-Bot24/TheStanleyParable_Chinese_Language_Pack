@@ -1,5 +1,7 @@
 # The Stanley Parable / 史丹利的寓言 简体中文汉化包
 
+![Stars](https://img.shields.io/github/stars/Liu-Bot24/TheStanleyParable_Chinese_Language_Pack?style=flat&label=Stars&cache=20260704) ![Forks](https://img.shields.io/github/forks/Liu-Bot24/TheStanleyParable_Chinese_Language_Pack?style=flat&label=Forks&cache=20260704) ![Views 14d](https://github-stats.liu-qi.cn/api/badge/Liu-Bot24/TheStanleyParable_Chinese_Language_Pack/views14d.svg?v=4) ![Clones 14d](https://github-stats.liu-qi.cn/api/badge/Liu-Bot24/TheStanleyParable_Chinese_Language_Pack/clones14d.svg?v=4) ![Downloads](https://img.shields.io/github/downloads/Liu-Bot24/TheStanleyParable_Chinese_Language_Pack/total?style=flat&label=Downloads&cache=20260704) ![Release](https://img.shields.io/github/v/release/Liu-Bot24/TheStanleyParable_Chinese_Language_Pack?style=flat&label=Release&cache=20260704)
+
 《The Stanley Parable》的简体中文汉化包，于游戏安装目录提取字幕和 UI 文本，按剧情上下文分组，使用 Gemini CLI 完成翻译和审校，并生成汉化包。
 
 ## 安装说明
@@ -17,3 +19,7 @@
 ## 恢复原版
 
 在 Steam 中对游戏执行“验证游戏文件完整性”，即可恢复被覆盖的原版文件。
+
+## 许可
+
+本仓库中的原创代码、构建脚本和不包含第三方游戏文本或资产的文档按 MIT 许可证授权。Noto Sans SC 字体按随附的 SIL Open Font License 授权。The Stanley Parable 名称、原始游戏文本、资源文件、汉化补丁内容、编译后的 `.dat` 文件、UI 资源、商标及其他游戏相关内容不在 MIT 授权范围内，相关权利归各自权利方所有。详见 [LICENSE.md](LICENSE.md)。
